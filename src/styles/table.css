@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@600&display=swap");
+.tableheaddesign {
+  background: #f6f2f9;
+}
+.tableheader {
+  display: flex;
+  flex-direction: block;
+  justify-content: space-between;
+}
+
+.buttonstyle {
+  height: 40px;
+  border: "4px solid";
+}
+
+.buttondiv {
+  margin-top: 10px;
+  align-items: left;
+  justify-content: left;
+}
+
+.header {
+  font-weight: 800;
+  font-size: larger;
+  font-family: "Hind Siliguri", sans-serif;
+}
+
+.buttontext {
+  color: #4604F8;
+}
+
+
+.text {
+  font-size: medium;
+  font-weight: 500;
+  font-size: large;
+  text-decoration: none;
+  color: #000;
+}
+.icon {
+  color: #000;
+}
+
+.gradient-text {
+    font-size: 45px;
+    background: -webkit-linear-gradient(#B79CEC, #4604F8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.exploreAndCurate {
+  font-size: 45px;
+  font-weight: bolder;
+  color: white;
+}
+
+
+.joinwait {
+  color: white;
+}
